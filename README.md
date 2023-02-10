@@ -29,7 +29,7 @@ Letsoin, S.M.A. A review of Metroxylon Sago as bio-energy alternative in Indones
 -  The Internal Grant Agency (IGA) of the Faculty of Engineering of the Czech University of Life Sciences Prague with Grant number: 2021:31130/1312/3105. </br>
 -    Project No. 3/2022, Unmanned Aerial Systems Technology for Recognition and Estimation of the Land Area in Papua Province, Indonesia, financed from the OP RDE Project Improving the quality of the Internal Grant Scheme at the Czech University of Life Sciences Prague, reg. no CZ.02.2.69/0.0/0.0/19_073/0016944 
 -    Researcher mobility May-July 2021, University of Hohenheim, Stuttgart, Germany (Erasmus)
-
+-    International Summer Course Computer Science for Agriculture Internet of Things (IoT) for Smart Urban Farming	9th – 17th September 2022 (IEEE IPB University, Indonesia). Final project: Simulation and of temperature and humidity monitoring Internet of things (IoT) based
 
 ## Publications
 
@@ -38,3 +38,9 @@ Letsoin, S.M.A. A review of Metroxylon Sago as bio-energy alternative in Indones
 - Setiawan, B., Fetriyuna, F., Letsoin, S. M. A., Purwestri, R. C., & Jati, I. R. A. (2022). A Sago Positive Character: A Literature Review. Jurnal Ilmiah Kedokteran Wijaya Kusuma, 11(2), 145-155.</br>
 - Letsoin, S. M. A., Herak, D., Rahmawan, F., & Purwestri, R. C. (2020). Land cover changes from 1990 to 2019 in Papua, Indonesia: Results of the remote sensing imagery. Sustainability, 12(16), 6623. 
 - Letsoin, S. M. A., Suwarjono, S., & Letsoin, Y. (2016). PROTOTYPE ANDROID MOBILE LINE TRACKING ROBOTIC (AM-LTR). MUSTEK ANIM HA, 5(2), 128-135. </br>
+
+**In preparation**
+- Title: Analysing Maize Plant Height Using Unmanned Aerial Vehicle (UAV) RGB based on Digital Surface Models (DSM) </br>
+Authors: Sri Murniani Angelina Letsoin, David Guth, David Herak, Ratna Chrismiari Purwestri (accepted to publish) </br>
+- Title: Monitoring of Paddy and Maize Field Using Sentinel-1 SAR Data and NGB Images: A Case Study in Papua, Indonesia </br>
+Authors:Sri Murniani Angelina Letsoin, Ratna Chrismiari Purwestri, Mayang Christy Perdana, Petr Hnizdil, David Herak (accepted to review) </br>
