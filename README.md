@@ -28,6 +28,7 @@ Letsoin, S.M.A. A review of Metroxylon Sago as bio-energy alternative in Indones
 -  The Indonesia Endowment Fund for Education (LPDP-Indonesia). </br>
 -  The Internal Grant Agency (IGA) of the Faculty of Engineering of the Czech University of Life Sciences Prague with Grant number: 2021:31130/1312/3105. </br>
 -    Project No. 3/2022, Unmanned Aerial Systems Technology for Recognition and Estimation of the Land Area in Papua Province, Indonesia, financed from the OP RDE Project Improving the quality of the Internal Grant Scheme at the Czech University of Life Sciences Prague, reg. no CZ.02.2.69/0.0/0.0/19_073/0016944 
+-    Researcher mobility May-July 2021, University of Hohenheim, Stuttgart, Germany (Erasmus)
 
 
 ## Publications
