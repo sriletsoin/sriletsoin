@@ -10,6 +10,11 @@
 - 📫 Personal email: murnianisri@gmail.com
 
 ## Research Interest
+-    *Mobile computing* </br>
+-    *IT for agriculture* </br>
+-    *AI (Object detection, deep learning, transfer learning)* </br>
+-    *Remote sensing (UAV, satelite optical and radar data )*
+
 
 <!--
 **sriletsoin/sriletsoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
