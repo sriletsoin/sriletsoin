@@ -6,7 +6,7 @@
 - 👯 GoogleScholar: Sri Murniani Angelina Letsoin
 - 💬 ORCID ID: https://orcid.org/0000-0002-6322-0882 
 - 💬 Scopus Author ID: 57193717438
-- 💬 Sciprofiles ID: 1171096
+- 💬 Sciprofiles ID: https://sciprofiles.com/profile/1171096
 - 📫 Personal email: murnianisri@gmail.com
 
 ## Research Interest
